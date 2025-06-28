@@ -33,7 +33,7 @@ Este proyecto es un **Portafolio Digital Responsive**, diseñado para presentar 
 
 Puedes visualizar el proyecto publicado en **GitHub Pages** en el siguiente enlace:
 
-🔗 [Ver Portafolio en Línea](https://tulink.github.io/mi-portafolio/) *(Sustituir por el link real tras la publicación)*
+🔗 [Ver Portafolio en Línea](https://tulink.github.io/mi-portafolio/](https://joselrg-dev.github.io/mi-portafolio/)
 
 ---
 
