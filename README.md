@@ -7,14 +7,14 @@ Este proyecto es un **Portafolio Digital Responsive**, diseñado para presentar 
 
 ## 🚀 Funcionalidades
 
-✔️ Diseño 100% responsive y optimizado para dispositivos móviles.
-✔️ Sección de presentación personal con imagen y descripción profesional.
-✔️ Listado de habilidades técnicas y herramientas dominadas.
-✔️ Experiencia laboral detallada.
-✔️ Formulario de contacto funcional.
-✔️ Enlaces rápidos a redes sociales: **LinkedIn**, **Instagram**, **Facebook**.
-✔️ Botón flotante de contacto directo vía **WhatsApp**.
-✔️ Opción de descarga de mi **Currículum Vitae (CV)** en PDF.
+* **Diseño 100% responsive y optimizado para dispositivos móviles.**
+* **Sección de presentación personal con imagen y descripción profesional.**
+* **Listado de habilidades técnicas y herramientas dominadas.**
+* **Experiencia laboral detallada.**
+* **Formulario de contacto funcional.**
+* **Enlaces rápidos a redes sociales: **LinkedIn**, **Instagram**, **Facebook**.**
+* **Botón flotante de contacto directo vía **WhatsApp**.**
+* **Opción de descarga de mi **Currículum Vitae (CV)** en PDF.**
 
 ---
 
