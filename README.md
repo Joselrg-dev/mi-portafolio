@@ -72,4 +72,3 @@ Si deseas comunicarte conmigo:
 
 ---
 
-¿Quieres que te lo adapte en inglés también? 🌍
